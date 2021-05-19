@@ -1,7 +1,9 @@
 # Welcome to my world! 👋
-A budding data scientist! I am keen on applying math and technologies creatively and usefully.
+A budding data scientist! I am keen on applying math and tech creatively and usefully.
 
-Reality affords an open-ended amount of exploration! Only our curiosity and focus determines how much value and insight we can create from data!
+My motivational motto is: Reality affords an open-ended amount of exploration!
+
+Only our curiosity and focus determines how much value and insight we can create from data.
 
 ## My usual activities
 * Ongoing Degree — 3rd semester in Computer Science at ![Unicamp](https://www.unicamp.br/unicamp/) (State University of Campinas)

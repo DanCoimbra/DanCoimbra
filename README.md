@@ -3,7 +3,7 @@ A budding data scientist! I am keen on applying math and tech creatively and use
 
 My motivational motto is: Reality affords an open-ended amount of exploration!
 
-Only our curiosity and focus determines how much value and insight we can create from data.
+Only our curiosity and focus determine how much value and insight we can create from data.
 
 ## My usual activities
 * Ongoing Degree — 3rd semester in Computer Science at ![Unicamp](https://www.unicamp.br/unicamp/) (State University of Campinas)

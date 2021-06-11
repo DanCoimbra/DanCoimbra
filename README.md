@@ -5,6 +5,8 @@ My motivational motto is: Reality affords an open-ended amount of exploration!
 
 Only our curiosity and focus determine how much value and insight we can create from data.
 
+My portfolio is divided into two sections: [Data science projects](https://github.com/DanCoimbra/data_science_studies) and [University projects](https://github.com/DanCoimbra/UNICAMP).
+
 ## My usual activities
 * Ongoing Degree — 3rd semester in Computer Science at ![Unicamp](https://www.unicamp.br/unicamp/) (State University of Campinas)
 * Competitions — Collaborative efforts in Kaggle challenges
